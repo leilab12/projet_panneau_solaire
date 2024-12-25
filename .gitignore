@@ -1,6 +1,6 @@
 # Ignorer les fichiers de données volumineux
 /data/raw/*
-/data/processed/*
+
 
 # Ignorer les fichiers temporaires
 *.log
