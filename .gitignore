@@ -2,11 +2,5 @@
 /data/raw/*
 /data/processed/*
 
-# Ignorer les notebooks Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Ignorer les fichiers Python compilés
-*.pyc
-
 # Ignorer les fichiers temporaires
 *.log
